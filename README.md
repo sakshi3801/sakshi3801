@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sakshi3801](https://github.com/sakshi3801)
-
 - 📫 How to reach me **saakshi030801@gmial.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing](https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing)
