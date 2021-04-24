@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **saakshi030801@gmial.com**
+- 📫 How to reach me **saakshi030801@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing](https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing)
 
