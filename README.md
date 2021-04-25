@@ -17,8 +17,6 @@
 
 - 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/sakshi-ramsinghani/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing](https://drive.google.com/file/d/1pnoOYLjPnieYsUL299HanaQs3ARfimbM/view?usp=sharing)
-
 - 📚 I love reading fictional novels.
 
 - ⚡ Fun fact **I am seriously humorous**
