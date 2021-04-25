@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Ramsinghani</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi3801&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi3801" /> </p>
 
 
 - 🎓 I'm a sophomore at **Indian Institute of Information Technology Pune**
