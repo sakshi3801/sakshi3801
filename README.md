@@ -14,7 +14,7 @@
 
 - 💻 Connect with me on [Linkedin](https://www.linkedin.com/in/sakshi-ramsinghani/)
 
-- 📚 I love reading fictional novels.
+- 📚 I love reading fictional novels
 
 - ⚡ Fun fact **I am seriously humorous**
 
