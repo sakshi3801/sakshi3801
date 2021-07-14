@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend web developer from India</h3>
 <br />
 
-- 🎓 I'm a sophomore at **Indian Institute of Information Technology Pune**
+- 🎓 I'm a pre final year student at **Indian Institute of Information Technology Pune**
 
 - 🌱 I’m currently learning **Node.js**
 
